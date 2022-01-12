@@ -1,0 +1,11 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com.cnpmjs.org/dzye/type-challenges.git",
+  "author": "dzye <756611752@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
