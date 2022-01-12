@@ -1,1 +1,1 @@
-# ts-challenges
+# type-challenges
